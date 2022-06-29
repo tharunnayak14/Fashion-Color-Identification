@@ -13,17 +13,17 @@ I have modified the above dataset a little by adding a validation directory.
  </p>
 
 </br>
-This is a multiclass classification task, with 12 classes, I have used InceptionV3 model and transfer learning to train on the data set and achieved a validation accuracy of 80%.
+<p>This is a multiclass classification task, with 12 classes, I have used InceptionV3 model and transfer learning to train on the data set and achieved a validation accuracy of 80%.</p>
 
 </br>
-Here are some of the model's predictions on the validatation data
+<p>Here are some of the model's predictions on the validatation data</p>
 </br>
 <p align='center'>
   <img src="./images/Screenshot 2022-06-29 163537.jpg">
  </p>
 
 </br>
-Here are some the model's prediction for unseen data
+<p>Here are some the model's prediction for unseen data</p>
 </br>
 <p align='center'>
   <img src="./images/Screenshot 2022-06-29 163619.jpg">
