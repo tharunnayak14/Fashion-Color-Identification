@@ -24,5 +24,6 @@ Here are some of the model's predictions on the validatation data
 </br>
 Here are some the model's prediction for unseen data
 </br>
-![Screenshot 2022-06-29 163619](https://user-images.githubusercontent.com/52671445/176423928-14195d49-2822-4c8a-9d5c-cc8ee5f125bc.jpg)
 
+
+![Screenshot 2022-06-29 163619](https://user-images.githubusercontent.com/52671445/176424242-4fb9d113-a664-40bd-999f-a2be363f7707.jpg)
