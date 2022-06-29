@@ -1,4 +1,4 @@
-# Fashion-Color-Identification
+# Fashion Color Classification
 
 Dataset - https://www.kaggle.com/datasets/imoore/6000-store-items-images-classified-by-color
 
