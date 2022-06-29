@@ -6,7 +6,7 @@ Here is a novel dataset for image classification. 6239 images are classified int
 I have modified the above dataset a little by adding a validation directory.
 
 </br>
-Here are some of the sample images from the training set
+<p> Here are some of the sample images from the training set </p>
 </br>
 <p align='center'>
   <img src="./images/Screenshot 2022-06-29 164045.jpg">
