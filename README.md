@@ -8,8 +8,6 @@ I have modified the above dataset a little by adding a validation directory.
 </br>
 Here are some of the sample images from the training set
 </br>
-
-![Screenshot 2022-06-29 164045](https://user-images.githubusercontent.com/52671445/176423018-a1291e60-7278-4fbe-b694-da776c115edc.jpg)
 <p align='center'>
   <img src="./images/Screenshot 2022-06-29 164045.jpg">
  </p>
@@ -20,12 +18,13 @@ This is a multiclass classification task, with 12 classes, I have used Inception
 </br>
 Here are some of the model's predictions on the validatation data
 </br>
-
-![Screenshot 2022-06-29 163506](https://user-images.githubusercontent.com/52671445/176423508-fb1b6c10-11db-4ad7-aa3d-67a9455b2cc2.jpg)
+<p align='center'>
+  <img src="./images/Screenshot 2022-06-29 163537.jpg">
+ </p>
 
 </br>
 Here are some the model's prediction for unseen data
 </br>
-
-
-![Screenshot 2022-06-29 163619](https://user-images.githubusercontent.com/52671445/176424242-4fb9d113-a664-40bd-999f-a2be363f7707.jpg)
+<p align='center'>
+  <img src="./images/Screenshot 2022-06-29 163619.jpg">
+ </p>
