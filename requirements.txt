@@ -1,0 +1,46 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+
+
+
+gdown=4.2.0=pyhd8ed1ab_0
+h5py=3.1.0=pypi_0
+ipykernel=6.9.1=py39haa95532_0
+jupyter=1.0.0=py39haa95532_7
+jupyter-contrib-core=0.3.3=pypi_0
+jupyter-contrib-nbextensions=0.5.1=pypi_0
+jupyter-highlight-selected-word=0.2.0=pypi_0
+jupyter-http-over-ws=0.0.8=pypi_0
+jupyter-latex-envs=1.4.6=pypi_0
+jupyter-nbextensions-configurator=0.4.1=pypi_0
+jupyter_client=7.2.2=py39haa95532_0
+jupyter_console=6.4.3=pyhd3eb1b0_0
+jupyter_core=4.10.0=py39haa95532_0
+jupyterlab_pygments=0.1.2=py_0
+jupyterlab_widgets=1.0.0=pyhd3eb1b0_1
+keras=2.9.0=pypi_0
+keras-nightly=2.5.0.dev2021032900=pypi_0
+keras-preprocessing=1.1.2=pypi_0
+matplotlib=3.4.3=pypi_0
+matplotlib-inline=0.1.2=pyhd3eb1b0_2
+numpy=1.19.5=pypi_0
+numpy-base=1.22.3=py39hca35cd5_0
+packaging=21.0=pypi_0
+pandas=1.1.5=pypi_0
+pip=21.2.4=py39haa95532_0
+plotly=5.5.0=pypi_0
+python=3.9.12=h6244533_0
+seaborn=0.11.2=pyhd3eb1b0_0
+tensorboard=2.9.0=pypi_0
+tensorboard-data-server=0.6.1=pypi_0
+tensorboard-plugin-wit=1.8.0=pypi_0
+tensorflow=2.9.0=pypi_0
+tensorflow-addons=0.17.1=pypi_0
+tensorflow-datasets=4.4.0=pypi_0
+tensorflow-estimator=2.9.0=pypi_0
+tensorflow-gpu=2.9.1=pypi_0
+tensorflow-hub=0.12.0=pypi_0
+tensorflow-io-gcs-filesystem=0.23.1=pypi_0
+tensorflow-metadata=1.2.0=pypi_0
+tensorflow-probability=0.13.0=pypi_0
