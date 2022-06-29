@@ -10,6 +10,9 @@ Here are some of the sample images from the training set
 </br>
 
 ![Screenshot 2022-06-29 164045](https://user-images.githubusercontent.com/52671445/176423018-a1291e60-7278-4fbe-b694-da776c115edc.jpg)
+<p align='center'>
+  <img src="./images/Screenshot 2022-06-29 164045.jpg">
+ </p>
 
 </br>
 This is a multiclass classification task, with 12 classes, I have used InceptionV3 model and transfer learning to train on the data set and achieved a validation accuracy of 80%.
